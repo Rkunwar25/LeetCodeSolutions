@@ -67,6 +67,7 @@ Solutions to LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
@@ -76,4 +77,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
