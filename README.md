@@ -6,6 +6,7 @@ Solutions to LeetCode problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -33,4 +34,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
