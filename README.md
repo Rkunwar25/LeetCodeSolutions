@@ -99,4 +99,12 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
