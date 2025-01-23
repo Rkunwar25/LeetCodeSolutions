@@ -95,4 +95,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
