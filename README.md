@@ -27,6 +27,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -54,4 +56,12 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
