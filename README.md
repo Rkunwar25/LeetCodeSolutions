@@ -36,6 +36,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
