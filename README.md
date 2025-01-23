@@ -19,6 +19,7 @@ Solutions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ Solutions to LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
