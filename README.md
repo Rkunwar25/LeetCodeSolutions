@@ -95,6 +95,7 @@ Solutions to LeetCode problems
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Queue
 |  |
 | ------- |
