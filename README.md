@@ -18,5 +18,14 @@ Solutions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
