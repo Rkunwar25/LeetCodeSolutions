@@ -98,6 +98,7 @@ Solutions to LeetCode problems
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
 ## Depth-First Search
 |  |
