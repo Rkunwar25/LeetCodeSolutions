@@ -30,6 +30,7 @@ Solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Solutions to LeetCode problems
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Queue
 |  |
 | ------- |
