@@ -130,6 +130,7 @@ Solutions to LeetCode problems
 | [0183-customers-who-never-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0596-classes-more-than-5-students) |
+| [1179-game-play-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
 ## Depth-First Search
 |  |
 | ------- |
