@@ -16,6 +16,7 @@ Solutions to LeetCode problems
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Solutions to LeetCode problems
 | [0504-base-7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -135,4 +138,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
