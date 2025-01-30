@@ -134,6 +134,7 @@ Solutions to LeetCode problems
 | [0595-big-countries](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
 | ------- |
