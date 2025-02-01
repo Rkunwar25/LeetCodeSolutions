@@ -141,6 +141,7 @@ Solutions to LeetCode problems
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Depth-First Search
 |  |
 | ------- |
