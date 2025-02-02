@@ -45,6 +45,7 @@ Solutions to LeetCode problems
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
