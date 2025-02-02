@@ -1,8 +1,10 @@
 class Solution(object):
     def kthFactor(self, n, k):
         fctr=[]
+        x=1
         for i in range(1,n+1):
-            if n%i==0:
-                fctr.append(i)
-        fctr.sort()
-        return fctr[k-1] if len(fctr)>=k else -1
+            if x==k and n%i==0:
+                return i
+            elif n%i==0:
+                x+=1
+        return -1
