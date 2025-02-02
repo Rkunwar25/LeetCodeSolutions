@@ -39,6 +39,7 @@ Solutions to LeetCode problems
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
