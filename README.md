@@ -69,6 +69,7 @@ Solutions to LeetCode problems
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Simulation
 |  |
 | ------- |
