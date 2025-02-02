@@ -45,6 +45,7 @@ Solutions to LeetCode problems
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
