@@ -5,3 +5,4 @@ class Solution(object):
             l.append(i**2)
         l.sort()
         return l
+        # return sorted(x**2 for x in nums)
