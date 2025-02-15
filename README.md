@@ -27,6 +27,7 @@ Solutions to LeetCode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ Solutions to LeetCode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
