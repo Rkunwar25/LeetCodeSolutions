@@ -43,6 +43,7 @@ Solutions to LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -64,6 +65,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 ## String
 |  |
@@ -212,4 +214,8 @@ Solutions to LeetCode problems
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
