@@ -58,6 +58,7 @@ Solutions to LeetCode problems
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0504-base-7) |
@@ -75,6 +76,7 @@ Solutions to LeetCode problems
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
@@ -84,6 +86,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 ## Binary Search
