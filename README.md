@@ -53,6 +53,7 @@ Solutions to LeetCode problems
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2181-smallest-index-with-equal-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-smallest-index-with-equal-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
