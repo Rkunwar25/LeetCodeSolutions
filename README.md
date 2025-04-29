@@ -80,6 +80,7 @@ Solutions to LeetCode problems
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## String
