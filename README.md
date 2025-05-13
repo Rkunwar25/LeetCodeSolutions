@@ -100,6 +100,7 @@ Solutions to LeetCode problems
 | [0507-perfect-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
