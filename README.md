@@ -119,6 +119,7 @@ Solutions to LeetCode problems
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
@@ -306,6 +307,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
+| [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 ## Matrix
 |  |
