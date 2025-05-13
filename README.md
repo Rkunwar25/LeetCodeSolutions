@@ -51,6 +51,7 @@ Solutions to LeetCode problems
 | [0932-monotonic-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
+| [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -165,6 +166,7 @@ Solutions to LeetCode problems
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
@@ -202,6 +204,7 @@ Solutions to LeetCode problems
 | [0414-third-maximum-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
