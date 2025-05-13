@@ -1,10 +1,11 @@
 class Solution(object):
     def averageValue(self, nums):
-        l=[]
+        tot=0
+        count=0
         for i in nums:
-            if i%2==0 and i%3==0:
-                l.append(i)
-        if l:
-            return sum(l)/len(l)
-        else:
-            return 0
+            if i%6==0:
+                tot+=i
+                count+=1
+        if count!=0:
+            return tot/count
+        return 0
