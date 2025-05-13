@@ -64,6 +64,7 @@ Solutions to LeetCode problems
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
@@ -111,6 +112,7 @@ Solutions to LeetCode problems
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
