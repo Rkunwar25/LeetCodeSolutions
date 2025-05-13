@@ -1,10 +1,8 @@
 class Solution(object):
     def findLucky(self, arr):
         c=Counter(arr)
-        l=[]
+        max_lucky=-1
         for i,j in c.items():
-            if i==j:
-                l.append(i)
-        if l:
-            return max(l)
-        return -1
+            if i == j:
+                max_lucky = max(max_lucky, i)
+        return max_lucky
