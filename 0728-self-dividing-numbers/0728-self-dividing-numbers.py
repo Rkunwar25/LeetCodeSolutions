@@ -6,4 +6,4 @@ class Solution(object):
                     return False
             return True
         
-        return [i for i in range(left, right + 1) if is_self_dividing(i)]
+        return [i for i in range(left, right + 1) if is_self_dividing(i)==True]
