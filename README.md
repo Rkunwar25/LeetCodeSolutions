@@ -127,6 +127,7 @@ Solutions to LeetCode problems
 | [2556-convert-the-temperature](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2630-alternating-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
