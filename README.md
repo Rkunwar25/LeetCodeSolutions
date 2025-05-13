@@ -71,6 +71,7 @@ Solutions to LeetCode problems
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -111,6 +112,7 @@ Solutions to LeetCode problems
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
