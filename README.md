@@ -79,6 +79,7 @@ Solutions to LeetCode problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-smallest-index-with-equal-value) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -231,6 +232,7 @@ Solutions to LeetCode problems
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -261,6 +263,7 @@ Solutions to LeetCode problems
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
