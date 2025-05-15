@@ -36,6 +36,7 @@ Solutions to LeetCode problems
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -206,6 +207,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -231,6 +233,7 @@ Solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +270,7 @@ Solutions to LeetCode problems
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
