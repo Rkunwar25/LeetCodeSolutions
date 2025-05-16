@@ -89,6 +89,7 @@ Solutions to LeetCode problems
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -136,6 +137,7 @@ Solutions to LeetCode problems
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
@@ -369,6 +371,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 ## Matrix
