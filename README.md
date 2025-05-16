@@ -74,6 +74,7 @@ Solutions to LeetCode problems
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
@@ -193,6 +194,7 @@ Solutions to LeetCode problems
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Solutions to LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -261,6 +264,7 @@ Solutions to LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
