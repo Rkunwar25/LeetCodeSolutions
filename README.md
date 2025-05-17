@@ -60,6 +60,7 @@ Solutions to LeetCode problems
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
@@ -126,6 +127,7 @@ Solutions to LeetCode problems
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
