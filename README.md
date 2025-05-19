@@ -33,6 +33,7 @@ Solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -158,6 +159,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -270,6 +272,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0015-3sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -421,6 +424,7 @@ Solutions to LeetCode problems
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
