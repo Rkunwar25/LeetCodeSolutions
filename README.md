@@ -33,6 +33,7 @@ Solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -205,6 +206,7 @@ Solutions to LeetCode problems
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -221,6 +223,7 @@ Solutions to LeetCode problems
 | [0015-3sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
