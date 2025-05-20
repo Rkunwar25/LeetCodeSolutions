@@ -10,9 +10,6 @@ class Solution(object):
         
         d=[nums[i][i] for i in range(len(nums))]
         od=[nums[i][len(nums)-1-i] for i in range(len(nums))]
-        l=[i for i in d if isPrime(i)==True]
-        l.extend([i for i in od if isPrime(i)==True])
-        if l:
-            return max(l)
-        else:
-            return 0
+        l=[i for i in d if isPrime(i)]
+        l.extend([i for i in od if isPrime(i)])
+        return max(l) if l else 0
