@@ -154,6 +154,7 @@ Solutions to LeetCode problems
 | [2383-add-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -438,6 +439,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
