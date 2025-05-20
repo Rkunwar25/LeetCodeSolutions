@@ -8,8 +8,10 @@ class Solution(object):
                     return False
             return True
         
-        l=[]
-        for i in range(len(nums)):
-            if isPrime(nums[i]):
-                l.append(i)
-        return max(l)-min(l)
+        # l=[]
+        # for i in range(len(nums)):
+        #     if isPrime(nums[i]):
+        #         l.append(i)
+        # return max(l)-min(l)
+        indices = [i for i, val in enumerate(nums) if isPrime(val)]
+        return max(indices) - min(indices) if indices else 0
