@@ -7,8 +7,4 @@ class Solution(object):
             return s
         while len(s)!=2:
             s=retMod(s)
-        if s[0]==s[1]:
-            return True
-        else:
-            return False
-        
+        return s[0]==s[1]
