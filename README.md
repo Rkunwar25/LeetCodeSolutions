@@ -112,6 +112,7 @@ Solutions to LeetCode problems
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -351,6 +352,7 @@ Solutions to LeetCode problems
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
