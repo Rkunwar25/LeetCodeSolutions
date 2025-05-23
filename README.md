@@ -72,6 +72,7 @@ Solutions to LeetCode problems
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
+| [1293-three-consecutive-odds](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
