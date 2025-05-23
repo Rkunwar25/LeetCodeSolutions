@@ -209,6 +209,7 @@ Solutions to LeetCode problems
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1660-thousand-separator](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
