@@ -106,6 +106,7 @@ Solutions to LeetCode problems
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2350-find-closest-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2350-find-closest-number-to-zero) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -239,6 +240,7 @@ Solutions to LeetCode problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -315,6 +317,7 @@ Solutions to LeetCode problems
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -355,6 +358,7 @@ Solutions to LeetCode problems
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
@@ -504,6 +508,7 @@ Solutions to LeetCode problems
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -517,6 +522,7 @@ Solutions to LeetCode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
