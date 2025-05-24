@@ -120,6 +120,7 @@ Solutions to LeetCode problems
 | [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -494,6 +495,7 @@ Solutions to LeetCode problems
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
 ## Geometry
 |  |
 | ------- |
