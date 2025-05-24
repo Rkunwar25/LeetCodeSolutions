@@ -101,6 +101,7 @@ Solutions to LeetCode problems
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-smallest-index-with-equal-value) |
@@ -241,6 +242,7 @@ Solutions to LeetCode problems
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -486,6 +488,7 @@ Solutions to LeetCode problems
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 ## Geometry
 |  |
