@@ -117,6 +117,7 @@ Solutions to LeetCode problems
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
@@ -492,6 +493,7 @@ Solutions to LeetCode problems
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 ## Geometry
 |  |
 | ------- |
