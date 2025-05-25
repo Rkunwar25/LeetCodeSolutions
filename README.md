@@ -121,6 +121,7 @@ Solutions to LeetCode problems
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
@@ -523,6 +524,7 @@ Solutions to LeetCode problems
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
