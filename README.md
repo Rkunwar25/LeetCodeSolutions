@@ -191,6 +191,7 @@ Solutions to LeetCode problems
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3371-harshad-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3626-smallest-divisible-digit-product-i) |
