@@ -32,6 +32,7 @@ Solutions to LeetCode problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -389,6 +390,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0260-single-number-iii) |
