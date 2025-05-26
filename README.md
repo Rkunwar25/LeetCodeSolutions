@@ -336,6 +336,7 @@ Solutions to LeetCode problems
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -420,6 +421,7 @@ Solutions to LeetCode problems
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -436,6 +438,7 @@ Solutions to LeetCode problems
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Database
 |  |
 | ------- |
@@ -470,6 +473,7 @@ Solutions to LeetCode problems
 | ------- |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -612,4 +616,12 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
