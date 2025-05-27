@@ -6,4 +6,5 @@ class Solution(object):
                 num1+=i
             else:
                 num2+=i
-        return num1-num2
+        ans=num1-num2
+        return ans
