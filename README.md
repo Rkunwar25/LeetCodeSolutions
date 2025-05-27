@@ -60,6 +60,7 @@ Solutions to LeetCode problems
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0932-monotonic-array) |
@@ -222,6 +223,7 @@ Solutions to LeetCode problems
 | [0742-to-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
@@ -304,6 +306,7 @@ Solutions to LeetCode problems
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
