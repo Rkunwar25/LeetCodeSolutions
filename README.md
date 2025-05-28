@@ -77,6 +77,7 @@ Solutions to LeetCode problems
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
@@ -344,6 +345,7 @@ Solutions to LeetCode problems
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -394,6 +396,7 @@ Solutions to LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -613,6 +616,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0274-h-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Radix Sort
