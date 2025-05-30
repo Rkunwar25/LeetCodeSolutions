@@ -233,6 +233,7 @@ Solutions to LeetCode problems
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -688,5 +689,6 @@ Solutions to LeetCode problems
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
