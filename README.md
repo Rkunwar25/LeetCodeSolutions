@@ -261,6 +261,7 @@ Solutions to LeetCode problems
 | [1933-number-of-different-integers-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1954-replace-all-digits-with-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -380,6 +381,7 @@ Solutions to LeetCode problems
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
