@@ -248,6 +248,7 @@ Solutions to LeetCode problems
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
