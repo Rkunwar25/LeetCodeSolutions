@@ -282,6 +282,7 @@ Solutions to LeetCode problems
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2365-percentage-of-letter-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
