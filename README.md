@@ -32,6 +32,7 @@ Solutions to LeetCode problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0164-maximum-gap) |
@@ -617,6 +618,7 @@ Solutions to LeetCode problems
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
