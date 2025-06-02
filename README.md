@@ -185,6 +185,7 @@ Solutions to LeetCode problems
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
@@ -258,6 +259,7 @@ Solutions to LeetCode problems
 | [1205-defanging-an-ip-address](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -733,4 +735,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
