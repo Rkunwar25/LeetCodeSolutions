@@ -155,6 +155,7 @@ Solutions to LeetCode problems
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -517,6 +518,7 @@ Solutions to LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
@@ -557,6 +559,7 @@ Solutions to LeetCode problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
