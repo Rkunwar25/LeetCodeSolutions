@@ -1,0 +1,15 @@
+class Solution(object):
+    def findFinalValue(self, nums, original):
+        def prod(nums,targ):
+           for i in nums:
+              if i==targ:
+                i=i*2
+                break
+           return i     
+        
+        while True:
+            if original in nums:
+                original=prod(nums,original)
+            else:
+                break          
+        return original
