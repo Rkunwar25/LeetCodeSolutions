@@ -334,6 +334,7 @@ Solutions to LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -761,6 +762,7 @@ Solutions to LeetCode problems
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
