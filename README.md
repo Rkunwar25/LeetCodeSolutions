@@ -99,6 +99,7 @@ Solutions to LeetCode problems
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
@@ -270,6 +271,7 @@ Solutions to LeetCode problems
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1660-thousand-separator) |
@@ -759,6 +761,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Interactive
 |  |
