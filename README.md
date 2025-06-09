@@ -169,6 +169,7 @@ Solutions to LeetCode problems
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
@@ -754,11 +755,13 @@ Solutions to LeetCode problems
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## String Matching
 |  |
