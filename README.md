@@ -177,6 +177,7 @@ Solutions to LeetCode problems
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
@@ -255,6 +256,7 @@ Solutions to LeetCode problems
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
@@ -366,6 +368,7 @@ Solutions to LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
