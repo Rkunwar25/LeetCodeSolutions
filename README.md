@@ -257,6 +257,7 @@ Solutions to LeetCode problems
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
