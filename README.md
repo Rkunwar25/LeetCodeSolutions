@@ -59,6 +59,7 @@ Solutions to LeetCode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
@@ -404,6 +405,7 @@ Solutions to LeetCode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
@@ -461,6 +463,7 @@ Solutions to LeetCode problems
 | [0414-third-maximum-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -504,6 +507,7 @@ Solutions to LeetCode problems
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
