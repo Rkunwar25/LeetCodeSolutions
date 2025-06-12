@@ -1,7 +1,6 @@
 class Solution(object):
     def maxAdjacentDistance(self, nums):
-        mx=float('-inf')
+        mx=abs(nums[0]-nums[-1])
         for i in range(len(nums)-1):
             mx=max(mx,abs(nums[i]-nums[i+1]))
-        mx=max(mx,abs(nums[0]-nums[len(nums)-1]))
         return mx
