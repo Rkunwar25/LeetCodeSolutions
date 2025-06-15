@@ -589,6 +589,7 @@ Solutions to LeetCode problems
 | [1258-article-views-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
