@@ -86,6 +86,7 @@ Solutions to LeetCode problems
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1241-decompress-run-length-encoded-list) |
+| [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
@@ -423,6 +424,7 @@ Solutions to LeetCode problems
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -484,6 +486,7 @@ Solutions to LeetCode problems
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
