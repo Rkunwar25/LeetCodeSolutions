@@ -74,6 +74,7 @@ Solutions to LeetCode problems
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
@@ -192,6 +193,7 @@ Solutions to LeetCode problems
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
@@ -477,6 +479,7 @@ Solutions to LeetCode problems
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -689,6 +692,7 @@ Solutions to LeetCode problems
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
