@@ -142,6 +142,7 @@ Solutions to LeetCode problems
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -398,6 +399,7 @@ Solutions to LeetCode problems
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -447,6 +449,7 @@ Solutions to LeetCode problems
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
@@ -505,6 +508,7 @@ Solutions to LeetCode problems
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
