@@ -15,6 +15,6 @@ class Solution(object):
             if nums[i] > min_val:
                 maxd = max(maxd, nums[i] - min_val)
             else:
-                min_val = nums[i]  # Update min_val when a new smaller element is found
+                min_val = nums[i] 
         
         return maxd
