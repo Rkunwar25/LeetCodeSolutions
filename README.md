@@ -587,6 +587,7 @@ Solutions to LeetCode problems
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0185-department-top-three-salaries) |
