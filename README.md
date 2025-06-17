@@ -14,6 +14,7 @@ Solutions to LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
@@ -168,6 +169,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
