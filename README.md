@@ -305,6 +305,7 @@ Solutions to LeetCode problems
 | [1954-replace-all-digits-with-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -445,6 +446,7 @@ Solutions to LeetCode problems
 | [1933-number-of-different-integers-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -563,6 +565,7 @@ Solutions to LeetCode problems
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -829,4 +832,5 @@ Solutions to LeetCode problems
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
