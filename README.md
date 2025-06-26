@@ -29,6 +29,7 @@ Solutions to LeetCode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -484,6 +485,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -710,6 +712,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
