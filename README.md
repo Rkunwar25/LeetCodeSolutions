@@ -307,6 +307,7 @@ Solutions to LeetCode problems
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1660-thousand-separator) |
@@ -669,6 +670,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
