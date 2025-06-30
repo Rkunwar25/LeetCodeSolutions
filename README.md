@@ -67,6 +67,7 @@ Solutions to LeetCode problems
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -688,6 +689,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
@@ -890,4 +892,5 @@ Solutions to LeetCode problems
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
