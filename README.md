@@ -67,6 +67,7 @@ Solutions to LeetCode problems
 | [0485-max-consecutive-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
@@ -446,6 +447,7 @@ Solutions to LeetCode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
@@ -513,6 +515,7 @@ Solutions to LeetCode problems
 | [0414-third-maximum-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
@@ -583,6 +586,7 @@ Solutions to LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -873,6 +877,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
