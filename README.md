@@ -185,6 +185,7 @@ Solutions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0050-powx-n) |
