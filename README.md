@@ -176,6 +176,7 @@ Solutions to LeetCode problems
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -504,6 +505,7 @@ Solutions to LeetCode problems
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -629,6 +631,7 @@ Solutions to LeetCode problems
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
