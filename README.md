@@ -6,6 +6,7 @@ Solutions to LeetCode problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
@@ -14,6 +15,7 @@ Solutions to LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
@@ -185,6 +187,7 @@ Solutions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
