@@ -14,6 +14,7 @@ Solutions to LeetCode problems
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -431,6 +432,7 @@ Solutions to LeetCode problems
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
