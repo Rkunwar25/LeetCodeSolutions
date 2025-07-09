@@ -80,6 +80,7 @@ Solutions to LeetCode problems
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -410,6 +411,7 @@ Solutions to LeetCode problems
 | [0374-guess-number-higher-or-lower](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
