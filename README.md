@@ -140,6 +140,7 @@ Solutions to LeetCode problems
 | [1646-kth-missing-positive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
@@ -496,6 +497,7 @@ Solutions to LeetCode problems
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -720,6 +722,7 @@ Solutions to LeetCode problems
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2571-find-the-pivot-integer) |
