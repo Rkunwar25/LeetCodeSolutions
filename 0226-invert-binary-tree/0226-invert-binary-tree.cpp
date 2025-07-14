@@ -4,10 +4,7 @@ public:
         if (root == nullptr) return nullptr;
 
         // Swap left and right children
-        TreeNode* temp = root->left;
-        root->left = root->right;
-        root->right = temp;
-
+        swap(root->left,root->right);
         // Recurse on left and right subtrees
         invertTree(root->left);
         invertTree(root->right);
