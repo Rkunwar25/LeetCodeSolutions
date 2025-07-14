@@ -703,6 +703,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -947,14 +948,17 @@ Solutions to LeetCode problems
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
