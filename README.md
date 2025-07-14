@@ -701,6 +701,7 @@ Solutions to LeetCode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -940,4 +941,16 @@ Solutions to LeetCode problems
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
