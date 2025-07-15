@@ -46,6 +46,7 @@ Solutions to LeetCode problems
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0135-candy) |
@@ -464,6 +465,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
@@ -822,6 +824,7 @@ Solutions to LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -949,6 +952,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
@@ -962,6 +966,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
