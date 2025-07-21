@@ -85,6 +85,7 @@ Solutions to LeetCode problems
 | [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
@@ -827,6 +828,7 @@ Solutions to LeetCode problems
 | [0324-wiggle-sort-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0624-maximum-distance-in-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
