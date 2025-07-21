@@ -331,6 +331,7 @@ Solutions to LeetCode problems
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
@@ -751,6 +752,7 @@ Solutions to LeetCode problems
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
 |  |
