@@ -174,6 +174,7 @@ Solutions to LeetCode problems
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
