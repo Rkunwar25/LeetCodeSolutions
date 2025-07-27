@@ -36,6 +36,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -406,6 +407,7 @@ Solutions to LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
@@ -842,6 +844,7 @@ Solutions to LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0190-reverse-bits) |
