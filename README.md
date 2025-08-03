@@ -30,6 +30,7 @@ Solutions to LeetCode problems
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Array
@@ -318,6 +319,7 @@ Solutions to LeetCode problems
 | [0383-ransom-note](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
@@ -758,6 +760,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
