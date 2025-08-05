@@ -44,6 +44,7 @@ Solutions to LeetCode problems
 | [0039-combination-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
@@ -393,6 +394,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
@@ -793,6 +795,7 @@ Solutions to LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
