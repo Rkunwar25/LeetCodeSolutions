@@ -206,6 +206,7 @@ Solutions to LeetCode problems
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -410,6 +411,7 @@ Solutions to LeetCode problems
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3625-stone-removal-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Solutions to LeetCode problems
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -927,6 +930,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -935,6 +939,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
 | ------- |
