@@ -246,6 +246,7 @@ Solutions to LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
+| [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
@@ -697,6 +698,7 @@ Solutions to LeetCode problems
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
+| [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
@@ -927,6 +929,7 @@ Solutions to LeetCode problems
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 ## Binary Indexed Tree
 |  |
