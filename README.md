@@ -200,6 +200,7 @@ Solutions to LeetCode problems
 | [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
@@ -388,6 +389,7 @@ Solutions to LeetCode problems
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
