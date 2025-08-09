@@ -1,11 +1,9 @@
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
-        nums1.extend(nums2)
-        nums1.sort()
-        n=len(nums1)
-        if n%2!=0:        
-            return nums1[n//2]
+        merged = sorted(nums1 + nums2)  # simpler than extend + sort
+        n = len(merged)
+        mid = n // 2
+        if n % 2:
+            return merged[mid]
         else:
-            pos=n//2
-            return (nums1[pos-1]+nums1[pos])/2.0
-        
+            return (merged[mid - 1] + merged[mid]) / 2.0
