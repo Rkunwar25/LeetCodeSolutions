@@ -313,6 +313,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
