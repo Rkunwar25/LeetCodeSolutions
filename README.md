@@ -154,6 +154,7 @@ Solutions to LeetCode problems
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
@@ -450,6 +451,7 @@ Solutions to LeetCode problems
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
@@ -608,6 +610,7 @@ Solutions to LeetCode problems
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
