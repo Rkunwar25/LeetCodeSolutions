@@ -98,6 +98,7 @@ Solutions to LeetCode problems
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -520,6 +521,7 @@ Solutions to LeetCode problems
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
