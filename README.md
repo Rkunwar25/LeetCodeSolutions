@@ -320,6 +320,7 @@ Solutions to LeetCode problems
 | [0008-string-to-integer-atoi](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -706,6 +707,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
