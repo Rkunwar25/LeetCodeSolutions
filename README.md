@@ -332,6 +332,7 @@ Solutions to LeetCode problems
 | [0383-ransom-note](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
@@ -475,6 +476,7 @@ Solutions to LeetCode problems
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
@@ -713,6 +715,7 @@ Solutions to LeetCode problems
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
