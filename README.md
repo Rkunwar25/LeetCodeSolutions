@@ -319,6 +319,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -467,6 +468,7 @@ Solutions to LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -710,6 +712,7 @@ Solutions to LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
