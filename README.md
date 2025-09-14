@@ -238,6 +238,7 @@ Solutions to LeetCode problems
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
@@ -721,6 +722,7 @@ Solutions to LeetCode problems
 | [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
@@ -1050,6 +1052,7 @@ Solutions to LeetCode problems
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 ## Binary Tree
