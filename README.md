@@ -108,6 +108,7 @@ Solutions to LeetCode problems
 | [0777-toeplitz-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
+| [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
@@ -256,6 +257,7 @@ Solutions to LeetCode problems
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -858,6 +860,7 @@ Solutions to LeetCode problems
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
