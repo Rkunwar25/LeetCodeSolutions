@@ -71,6 +71,7 @@ Solutions to LeetCode problems
 | [0260-single-number-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0322-coin-change) |
@@ -483,6 +484,7 @@ Solutions to LeetCode problems
 | [0125-valid-palindrome](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
