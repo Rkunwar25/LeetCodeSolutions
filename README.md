@@ -328,6 +328,7 @@ Solutions to LeetCode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
@@ -815,6 +816,7 @@ Solutions to LeetCode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
