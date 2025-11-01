@@ -766,6 +766,7 @@ Solutions to LeetCode problems
 | [0607-sales-person](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0620-not-boring-movies) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
