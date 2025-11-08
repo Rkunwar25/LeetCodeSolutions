@@ -1,12 +1,10 @@
-class Solution(object):
-    def plusOne(self, digits):
-        s=""
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        digits=digits[::-1]
+        d=1
+        num=0
         for i in digits:
-            s+=str(i)
-        n=int(s)+1
-        m=n
-        l=[]
-        while m!=0:
-            l.append(m%10)
-            m//=10
-        return l[::-1]
+            num+=i*d
+            d*=10
+        num+=1
+        return list(map(int,list(str(num))))
