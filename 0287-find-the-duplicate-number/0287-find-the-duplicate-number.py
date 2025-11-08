@@ -1,6 +1,10 @@
-class Solution(object):
-    def findDuplicate(self, nums):
-        c=Counter(nums)
-        for i,j in c.items():
-            if j>=2:
-                return i
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        seen = set()
+        duplicates = set()
+        for item in nums:
+           if item in seen:
+             duplicates.add(item)
+           else: 
+             seen.add(item)
+        return list(duplicates)[0]
