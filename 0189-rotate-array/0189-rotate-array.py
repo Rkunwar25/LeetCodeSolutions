@@ -1,5 +1,5 @@
-class Solution(object):
-    def rotate(self, nums, k):
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
         n=len(nums)
         k=k%n
-        nums[:] = nums[-k:] + nums[:-k]
+        nums[:]=nums[-k:]+nums[:-k]
