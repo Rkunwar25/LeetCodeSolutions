@@ -62,6 +62,7 @@ Solutions to LeetCode problems
 | [0164-maximum-gap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -239,6 +240,7 @@ Solutions to LeetCode problems
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -485,6 +487,7 @@ Solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
