@@ -414,6 +414,7 @@ Solutions to LeetCode problems
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
