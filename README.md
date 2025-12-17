@@ -189,6 +189,7 @@ Solutions to LeetCode problems
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -412,6 +413,7 @@ Solutions to LeetCode problems
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
