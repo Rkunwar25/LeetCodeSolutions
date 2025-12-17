@@ -388,6 +388,7 @@ Solutions to LeetCode problems
 | [1764-maximum-repeating-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1933-number-of-different-integers-in-a-string) |
