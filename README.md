@@ -364,6 +364,7 @@ Solutions to LeetCode problems
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
@@ -548,6 +549,7 @@ Solutions to LeetCode problems
 | [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
+| [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
