@@ -173,6 +173,7 @@ Solutions to LeetCode problems
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
@@ -395,6 +396,7 @@ Solutions to LeetCode problems
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-largest-odd-number-in-string) |
