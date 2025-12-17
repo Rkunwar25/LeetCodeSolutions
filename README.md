@@ -422,6 +422,7 @@ Solutions to LeetCode problems
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -601,6 +602,7 @@ Solutions to LeetCode problems
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
