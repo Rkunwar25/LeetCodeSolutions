@@ -405,6 +405,7 @@ Solutions to LeetCode problems
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -440,6 +441,7 @@ Solutions to LeetCode problems
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
