@@ -86,6 +86,7 @@ Solutions to LeetCode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -353,6 +354,7 @@ Solutions to LeetCode problems
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
@@ -756,6 +758,7 @@ Solutions to LeetCode problems
 | [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
