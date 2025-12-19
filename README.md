@@ -330,6 +330,7 @@ Solutions to LeetCode problems
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3625-stone-removal-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -874,6 +875,7 @@ Solutions to LeetCode problems
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
