@@ -322,6 +322,7 @@ Solutions to LeetCode problems
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -707,6 +708,7 @@ Solutions to LeetCode problems
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
