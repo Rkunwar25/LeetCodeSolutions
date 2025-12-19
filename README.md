@@ -334,6 +334,7 @@ Solutions to LeetCode problems
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
