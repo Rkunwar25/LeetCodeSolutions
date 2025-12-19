@@ -357,6 +357,7 @@ Solutions to LeetCode problems
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0383-ransom-note) |
@@ -925,6 +926,7 @@ Solutions to LeetCode problems
 | [0039-combination-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
+| [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
