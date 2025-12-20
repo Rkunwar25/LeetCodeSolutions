@@ -816,6 +816,7 @@ Solutions to LeetCode problems
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1301-reformat-department-table) |
+| [1341-movie-rating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1541-top-travellers) |
