@@ -121,6 +121,7 @@ Solutions to LeetCode problems
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
@@ -385,6 +386,7 @@ Solutions to LeetCode problems
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
