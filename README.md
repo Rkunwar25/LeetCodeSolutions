@@ -381,6 +381,7 @@ Solutions to LeetCode problems
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
@@ -581,6 +582,7 @@ Solutions to LeetCode problems
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
