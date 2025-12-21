@@ -371,6 +371,7 @@ Solutions to LeetCode problems
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
