@@ -245,6 +245,7 @@ Solutions to LeetCode problems
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -708,6 +709,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0231-power-of-two) |
@@ -937,6 +939,7 @@ Solutions to LeetCode problems
 | [0039-combination-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
