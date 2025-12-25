@@ -384,6 +384,7 @@ Solutions to LeetCode problems
 | [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
