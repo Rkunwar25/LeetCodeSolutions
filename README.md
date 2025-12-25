@@ -363,6 +363,7 @@ Solutions to LeetCode problems
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
@@ -852,6 +853,7 @@ Solutions to LeetCode problems
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -951,6 +953,7 @@ Solutions to LeetCode problems
 | [0046-permutations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
@@ -1140,6 +1143,7 @@ Solutions to LeetCode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
@@ -1161,6 +1165,7 @@ Solutions to LeetCode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
