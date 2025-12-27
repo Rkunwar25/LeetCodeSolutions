@@ -1,9 +1,9 @@
-class Solution(object):
+class Solution:
     def twoSum(self, nums, target):
-        l=[]
-        n=len(nums)
-        for i in range(n):
-            for j in range(n):
-                if (nums[i]+nums[j]==target) and (i!=j):
-                    return [i,j]
-        return []
+        seen = {}  # value -> index
+
+        for i, num in enumerate(nums):
+            needed = target - num
+            if needed in seen:
+                return [seen[needed], i]
+            seen[num] = i
