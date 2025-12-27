@@ -93,6 +93,7 @@ Solutions to LeetCode problems
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
@@ -386,6 +387,7 @@ Solutions to LeetCode problems
 | [0459-repeated-substring-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
@@ -600,6 +602,7 @@ Solutions to LeetCode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
