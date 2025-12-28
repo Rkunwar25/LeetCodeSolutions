@@ -171,6 +171,7 @@ Solutions to LeetCode problems
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1677-matrix-diagonal-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -430,6 +431,7 @@ Solutions to LeetCode problems
 | [1561-rearrange-words-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1660-thousand-separator) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-reformat-phone-number) |
 | [1764-maximum-repeating-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -634,6 +636,7 @@ Solutions to LeetCode problems
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -759,6 +762,7 @@ Solutions to LeetCode problems
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -784,6 +788,7 @@ Solutions to LeetCode problems
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
