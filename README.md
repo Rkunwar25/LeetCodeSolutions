@@ -163,6 +163,7 @@ Solutions to LeetCode problems
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -305,6 +306,7 @@ Solutions to LeetCode problems
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -631,6 +633,7 @@ Solutions to LeetCode problems
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -780,6 +783,7 @@ Solutions to LeetCode problems
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
