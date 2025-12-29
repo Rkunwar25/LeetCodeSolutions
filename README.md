@@ -115,6 +115,7 @@ Solutions to LeetCode problems
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
@@ -412,6 +413,7 @@ Solutions to LeetCode problems
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0742-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
@@ -630,6 +632,7 @@ Solutions to LeetCode problems
 | [0648-replace-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
