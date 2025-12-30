@@ -893,6 +893,7 @@ Solutions to LeetCode problems
 | [1341-movie-rating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1527-patients-with-a-condition) |
 | [1541-top-travellers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1664-find-users-with-valid-e-mails) |
