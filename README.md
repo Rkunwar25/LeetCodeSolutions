@@ -886,6 +886,7 @@ Solutions to LeetCode problems
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1211-queries-quality-and-percentage) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1301-reformat-department-table) |
