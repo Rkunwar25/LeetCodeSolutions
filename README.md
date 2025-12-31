@@ -273,6 +273,7 @@ Solutions to LeetCode problems
 | [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -851,6 +852,7 @@ Solutions to LeetCode problems
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
