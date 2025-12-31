@@ -274,6 +274,7 @@ Solutions to LeetCode problems
 | [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -916,6 +917,7 @@ Solutions to LeetCode problems
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1224,6 +1226,7 @@ Solutions to LeetCode problems
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 ## Binary Tree
