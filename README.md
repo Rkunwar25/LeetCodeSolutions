@@ -438,6 +438,7 @@ Solutions to LeetCode problems
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -654,6 +655,7 @@ Solutions to LeetCode problems
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -813,6 +815,7 @@ Solutions to LeetCode problems
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
+| [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1064,6 +1067,7 @@ Solutions to LeetCode problems
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0738-monotone-increasing-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
