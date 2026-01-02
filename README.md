@@ -205,6 +205,7 @@ Solutions to LeetCode problems
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -679,6 +680,7 @@ Solutions to LeetCode problems
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -757,6 +759,7 @@ Solutions to LeetCode problems
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -836,6 +839,7 @@ Solutions to LeetCode problems
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
