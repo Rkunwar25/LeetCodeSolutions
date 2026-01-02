@@ -212,6 +212,7 @@ Solutions to LeetCode problems
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2350-find-closest-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -683,6 +684,7 @@ Solutions to LeetCode problems
 | [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -842,6 +844,7 @@ Solutions to LeetCode problems
 | [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
