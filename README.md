@@ -248,6 +248,7 @@ Solutions to LeetCode problems
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -495,6 +496,7 @@ Solutions to LeetCode problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3407-substring-matching-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3407-substring-matching-pattern) |
+| [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -701,6 +703,7 @@ Solutions to LeetCode problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
+| [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -856,6 +859,7 @@ Solutions to LeetCode problems
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
+| [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
