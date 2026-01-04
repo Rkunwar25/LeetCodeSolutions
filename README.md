@@ -122,6 +122,7 @@ Solutions to LeetCode problems
 | [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0875-koko-eating-bananas](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0932-monotonic-array) |
@@ -561,6 +562,7 @@ Solutions to LeetCode problems
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
