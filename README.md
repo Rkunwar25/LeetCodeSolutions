@@ -156,6 +156,7 @@ Solutions to LeetCode problems
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1390-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -316,6 +317,7 @@ Solutions to LeetCode problems
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
