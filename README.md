@@ -154,6 +154,7 @@ Solutions to LeetCode problems
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -316,6 +317,7 @@ Solutions to LeetCode problems
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-four-divisors) |
@@ -977,6 +979,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -1295,4 +1298,12 @@ Solutions to LeetCode problems
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
