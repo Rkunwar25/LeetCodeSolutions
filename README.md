@@ -938,6 +938,7 @@ Solutions to LeetCode problems
 | [1625-group-sold-products-by-the-date](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1734-bank-account-summary-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1734-bank-account-summary-ii) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1795-rearrange-products-table) |
 | [1811-fix-names-in-a-table](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1811-fix-names-in-a-table) |
