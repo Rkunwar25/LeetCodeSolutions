@@ -125,6 +125,7 @@ Solutions to LeetCode problems
 | [0875-koko-eating-bananas](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [0929-unique-email-addresses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0932-monotonic-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
@@ -436,6 +437,7 @@ Solutions to LeetCode problems
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0984-string-without-aaa-or-bbb) |
@@ -656,6 +658,7 @@ Solutions to LeetCode problems
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [0929-unique-email-addresses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0970-powerful-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0970-powerful-integers) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
