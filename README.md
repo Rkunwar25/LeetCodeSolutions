@@ -182,6 +182,7 @@ Solutions to LeetCode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1720-decode-xored-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1720-decode-xored-array) |
 | [1726-tuple-with-same-product](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1726-tuple-with-same-product) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
@@ -819,6 +820,7 @@ Solutions to LeetCode problems
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1720-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
