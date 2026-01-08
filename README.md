@@ -194,6 +194,7 @@ Solutions to LeetCode problems
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -477,6 +478,7 @@ Solutions to LeetCode problems
 | [1944-truncate-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -622,6 +624,7 @@ Solutions to LeetCode problems
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
