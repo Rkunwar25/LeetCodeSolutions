@@ -222,6 +222,7 @@ Solutions to LeetCode problems
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2350-find-closest-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2350-find-closest-number-to-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2486-most-frequent-even-element) |
@@ -630,6 +631,7 @@ Solutions to LeetCode problems
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -711,6 +713,7 @@ Solutions to LeetCode problems
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1098,6 +1101,7 @@ Solutions to LeetCode problems
 | [2083-three-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
