@@ -12,7 +12,7 @@ struct ListNode* middleNode(struct ListNode* head) {
         l++;
         temp=temp->next;
     }
-    free(temp);
+   
     int mid=l/2;
     struct ListNode* temp2=head;
     int c=0;
