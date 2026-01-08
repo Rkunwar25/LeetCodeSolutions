@@ -429,6 +429,7 @@ Solutions to LeetCode problems
 | [0657-robot-return-to-origin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -607,6 +608,7 @@ Solutions to LeetCode problems
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
