@@ -810,6 +810,7 @@ Solutions to LeetCode problems
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
