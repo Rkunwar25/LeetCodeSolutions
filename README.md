@@ -503,6 +503,7 @@ Solutions to LeetCode problems
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -715,6 +716,7 @@ Solutions to LeetCode problems
 | [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -882,6 +884,7 @@ Solutions to LeetCode problems
 | [2248-intersection-of-multiple-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2347-best-poker-hand](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2347-best-poker-hand) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
