@@ -962,6 +962,7 @@ Solutions to LeetCode problems
 | [1541-top-travellers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1541-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1625-group-sold-products-by-the-date](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1625-group-sold-products-by-the-date) |
+| [1661-average-time-of-process-per-machine](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1734-bank-account-summary-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1734-bank-account-summary-ii) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1741-find-total-time-spent-by-each-employee) |
