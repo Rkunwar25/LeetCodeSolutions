@@ -973,6 +973,7 @@ Solutions to LeetCode problems
 | [1873-calculate-special-bonus](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1890-the-latest-login-in-2020) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1965-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3465-find-products-with-valid-serial-numbers) |
