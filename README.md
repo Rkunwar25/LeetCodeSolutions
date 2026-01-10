@@ -432,6 +432,7 @@ Solutions to LeetCode problems
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0647-palindromic-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -616,6 +617,7 @@ Solutions to LeetCode problems
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
@@ -922,6 +924,7 @@ Solutions to LeetCode problems
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
