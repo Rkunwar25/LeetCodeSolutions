@@ -459,6 +459,7 @@ Solutions to LeetCode problems
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-occurrences-after-bigram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
