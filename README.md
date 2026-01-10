@@ -464,6 +464,7 @@ Solutions to LeetCode problems
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1154-day-of-the-year) |
 | [1205-defanging-an-ip-address](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -873,6 +874,7 @@ Solutions to LeetCode problems
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
@@ -1146,6 +1148,7 @@ Solutions to LeetCode problems
 | [0738-monotone-increasing-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0738-monotone-increasing-digits) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1448-maximum-69-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1448-maximum-69-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
