@@ -297,6 +297,7 @@ Solutions to LeetCode problems
 | [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
@@ -584,6 +585,7 @@ Solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
