@@ -89,6 +89,7 @@ Solutions to LeetCode problems
 | [0414-third-maximum-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
@@ -302,6 +303,7 @@ Solutions to LeetCode problems
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0504-base-7) |
