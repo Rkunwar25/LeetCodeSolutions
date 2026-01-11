@@ -282,6 +282,7 @@ Solutions to LeetCode problems
 | [0069-sqrtx](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -925,6 +926,7 @@ Solutions to LeetCode problems
 | [0064-minimum-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
@@ -1303,6 +1305,7 @@ Solutions to LeetCode problems
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1327,6 +1330,7 @@ Solutions to LeetCode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1340,6 +1344,7 @@ Solutions to LeetCode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
