@@ -112,6 +112,7 @@ Solutions to LeetCode problems
 | [0648-replace-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -546,6 +547,7 @@ Solutions to LeetCode problems
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -1056,6 +1058,7 @@ Solutions to LeetCode problems
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
