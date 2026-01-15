@@ -1010,6 +1010,7 @@ Solutions to LeetCode problems
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
@@ -1322,6 +1323,7 @@ Solutions to LeetCode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
@@ -1334,6 +1336,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0100-same-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0279-perfect-squares) |
@@ -1351,6 +1354,7 @@ Solutions to LeetCode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
