@@ -248,6 +248,7 @@ Solutions to LeetCode problems
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -751,6 +752,7 @@ Solutions to LeetCode problems
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
@@ -865,6 +867,7 @@ Solutions to LeetCode problems
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
@@ -1028,6 +1031,7 @@ Solutions to LeetCode problems
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Memoization
@@ -1305,6 +1309,7 @@ Solutions to LeetCode problems
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Monotonic Stack
 |  |
 | ------- |
