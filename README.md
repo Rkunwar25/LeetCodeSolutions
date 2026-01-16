@@ -143,6 +143,7 @@ Solutions to LeetCode problems
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -325,6 +326,7 @@ Solutions to LeetCode problems
 | [0970-powerful-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0970-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1070-convert-to-base-2) |
@@ -800,6 +802,7 @@ Solutions to LeetCode problems
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
@@ -1103,6 +1106,7 @@ Solutions to LeetCode problems
 | [0777-toeplitz-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1119,6 +1123,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Backtracking
