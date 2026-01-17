@@ -15,6 +15,7 @@ Solutions to LeetCode problems
 | [0206-reverse-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -307,6 +308,7 @@ Solutions to LeetCode problems
 | [0412-fizz-buzz](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0492-construct-the-rectangle) |
@@ -1069,6 +1071,7 @@ Solutions to LeetCode problems
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
