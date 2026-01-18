@@ -259,6 +259,7 @@ Solutions to LeetCode problems
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -766,6 +767,7 @@ Solutions to LeetCode problems
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
@@ -937,6 +939,7 @@ Solutions to LeetCode problems
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
