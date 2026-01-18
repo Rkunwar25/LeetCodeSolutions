@@ -357,6 +357,7 @@ Solutions to LeetCode problems
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1925-count-square-sum-triples](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1965-sum-of-digits-in-base-k) |
@@ -726,6 +727,7 @@ Solutions to LeetCode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1726-tuple-with-same-product](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1726-tuple-with-same-product) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -904,6 +906,7 @@ Solutions to LeetCode problems
 | [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1726-tuple-with-same-product) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
