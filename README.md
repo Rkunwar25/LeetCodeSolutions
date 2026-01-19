@@ -277,6 +277,7 @@ Solutions to LeetCode problems
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -405,6 +406,7 @@ Solutions to LeetCode problems
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -549,6 +551,7 @@ Solutions to LeetCode problems
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -777,6 +780,7 @@ Solutions to LeetCode problems
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
@@ -949,6 +953,7 @@ Solutions to LeetCode problems
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
