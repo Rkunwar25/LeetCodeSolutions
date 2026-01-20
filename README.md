@@ -207,6 +207,7 @@ Solutions to LeetCode problems
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -744,6 +745,7 @@ Solutions to LeetCode problems
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-two-out-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-two-out-of-three) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -888,6 +890,7 @@ Solutions to LeetCode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1720-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
