@@ -208,6 +208,7 @@ Solutions to LeetCode problems
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -845,6 +846,7 @@ Solutions to LeetCode problems
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1961-maximum-ice-cream-bars](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1352,6 +1354,7 @@ Solutions to LeetCode problems
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Monotonic Stack
