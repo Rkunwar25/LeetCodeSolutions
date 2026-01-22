@@ -103,6 +103,7 @@ Solutions to LeetCode problems
 | [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -701,6 +702,7 @@ Solutions to LeetCode problems
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
+| [0575-distribute-candies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0645-set-mismatch) |
