@@ -23,6 +23,7 @@ Solutions to LeetCode problems
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -397,6 +398,7 @@ Solutions to LeetCode problems
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2752-sum-multiples](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2752-sum-multiples) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1120,6 +1122,7 @@ Solutions to LeetCode problems
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
