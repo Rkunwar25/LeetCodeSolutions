@@ -24,6 +24,7 @@ Solutions to LeetCode problems
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Solutions to LeetCode problems
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -788,6 +790,7 @@ Solutions to LeetCode problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
