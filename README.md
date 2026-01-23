@@ -21,6 +21,7 @@ Solutions to LeetCode problems
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -581,6 +582,7 @@ Solutions to LeetCode problems
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
