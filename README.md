@@ -354,6 +354,7 @@ Solutions to LeetCode problems
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1185-day-of-the-week) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
