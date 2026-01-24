@@ -9,23 +9,32 @@ class Solution:
             while b:
                 a,b=b,a%b
             return a
-        l=[]
-        l.append(head.val)
-        while head.next:
-            a=head.val
-            # l.append(a)
-            head=head.next
-            b=head.val
-            g=gcd(a,b)
-            l.extend([g,b])
-        new=None
-        tail=None
-        for i in l:
-            n=ListNode(i)
-            if new is None:
-                new=n
-                tail=n
-            else:
-                tail.next=n
-                tail=n
-        return new
+        # l=[]
+        # l.append(head.val)
+        # while head.next:
+        #     a=head.val
+        #     # l.append(a)
+        #     head=head.next
+        #     b=head.val
+        #     g=gcd(a,b)
+        #     l.extend([g,b])
+        # new=None
+        # tail=None
+        # for i in l:
+        #     n=ListNode(i)
+        #     if new is None:
+        #         new=n
+        #         tail=n
+        #     else:
+        #         tail.next=n
+        #         tail=n
+        # return new
+        
+        prev=head
+        while prev.next:
+            curr=prev.next
+            g=ListNode(gcd(prev.val,curr.val))
+            prev.next=g
+            g.next=curr
+            prev=curr
+        return head
