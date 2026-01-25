@@ -1077,6 +1077,7 @@ Solutions to LeetCode problems
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
@@ -1403,6 +1404,7 @@ Solutions to LeetCode problems
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
@@ -1434,6 +1436,7 @@ Solutions to LeetCode problems
 | [0112-path-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
@@ -1443,6 +1446,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Rolling Hash
