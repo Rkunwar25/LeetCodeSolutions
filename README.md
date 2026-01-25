@@ -1086,6 +1086,7 @@ Solutions to LeetCode problems
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -1133,6 +1134,7 @@ Solutions to LeetCode problems
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1415,6 +1417,7 @@ Solutions to LeetCode problems
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
