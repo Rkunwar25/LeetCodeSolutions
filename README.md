@@ -165,6 +165,7 @@ Solutions to LeetCode problems
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -849,6 +850,7 @@ Solutions to LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
