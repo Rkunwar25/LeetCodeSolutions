@@ -1431,6 +1431,7 @@ Solutions to LeetCode problems
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1467,6 +1468,7 @@ Solutions to LeetCode problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
