@@ -1091,6 +1091,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1427,6 +1428,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1446,6 +1448,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
