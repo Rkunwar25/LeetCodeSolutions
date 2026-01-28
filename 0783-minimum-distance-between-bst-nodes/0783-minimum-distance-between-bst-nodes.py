@@ -14,7 +14,7 @@ class Solution:
             l.append(root.val)
             values(root.right,l)
         values(root,l)
-        l=sorted(l)
+        print(l)
         mn=float('inf')
         for i in range(1,len(l)):
             mn=min(mn,l[i]-l[i-1])
