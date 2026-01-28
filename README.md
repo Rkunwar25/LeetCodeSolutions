@@ -1098,6 +1098,7 @@ Solutions to LeetCode problems
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -1440,6 +1441,7 @@ Solutions to LeetCode problems
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
@@ -1459,6 +1461,7 @@ Solutions to LeetCode problems
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1482,6 +1485,7 @@ Solutions to LeetCode problems
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
@@ -1495,6 +1499,7 @@ Solutions to LeetCode problems
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Rolling Hash
