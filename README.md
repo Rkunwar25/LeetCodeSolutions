@@ -491,6 +491,7 @@ Solutions to LeetCode problems
 | [0771-jewels-and-stones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0822-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0824-goat-latin) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
