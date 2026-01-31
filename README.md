@@ -1105,6 +1105,7 @@ Solutions to LeetCode problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -1451,6 +1452,7 @@ Solutions to LeetCode problems
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1498,6 +1500,7 @@ Solutions to LeetCode problems
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
