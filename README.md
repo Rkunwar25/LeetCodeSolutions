@@ -94,6 +94,7 @@ Solutions to LeetCode problems
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -458,6 +459,7 @@ Solutions to LeetCode problems
 | [0290-word-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -905,6 +907,7 @@ Solutions to LeetCode problems
 | [0260-single-number-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0389-find-the-difference) |
