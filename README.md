@@ -1106,6 +1106,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1457,6 +1458,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1484,6 +1486,7 @@ Solutions to LeetCode problems
 | [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1514,6 +1517,7 @@ Solutions to LeetCode problems
 | [0404-sum-of-left-leaves](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
