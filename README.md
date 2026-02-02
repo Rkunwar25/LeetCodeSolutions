@@ -1119,6 +1119,7 @@ Solutions to LeetCode problems
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1476,6 +1477,7 @@ Solutions to LeetCode problems
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
@@ -1505,6 +1507,7 @@ Solutions to LeetCode problems
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -1539,6 +1542,7 @@ Solutions to LeetCode problems
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
