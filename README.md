@@ -1125,6 +1125,7 @@ Solutions to LeetCode problems
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -1484,6 +1485,7 @@ Solutions to LeetCode problems
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1510,6 +1512,7 @@ Solutions to LeetCode problems
 | [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1549,6 +1552,7 @@ Solutions to LeetCode problems
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
