@@ -297,6 +297,7 @@ Solutions to LeetCode problems
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
+| [3637-trionic-array-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3637-trionic-array-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
