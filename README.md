@@ -294,6 +294,7 @@ Solutions to LeetCode problems
 | [3324-split-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3330-modify-the-matrix) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
+| [3379-transformed-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3379-transformed-array) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -615,6 +616,7 @@ Solutions to LeetCode problems
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3379-transformed-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3379-transformed-array) |
 | [3625-stone-removal-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3625-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
