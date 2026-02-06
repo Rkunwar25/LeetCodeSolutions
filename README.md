@@ -1123,6 +1123,7 @@ Solutions to LeetCode problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1482,6 +1483,7 @@ Solutions to LeetCode problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1549,6 +1551,7 @@ Solutions to LeetCode problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
