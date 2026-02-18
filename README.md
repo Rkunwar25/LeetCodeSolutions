@@ -191,6 +191,7 @@ Solutions to LeetCode problems
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -605,6 +606,7 @@ Solutions to LeetCode problems
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
