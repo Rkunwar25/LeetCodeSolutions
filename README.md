@@ -181,6 +181,7 @@ Solutions to LeetCode problems
 | [1241-decompress-run-length-encoded-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
