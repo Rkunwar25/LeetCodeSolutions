@@ -1,11 +1,7 @@
-class Solution(object):
-    def hasAlternatingBits(self, n):
-        bn=bin(n)[2:]
-        flag=0
-        for i in range(len(bn)-1):
-            if bn[i]!=bn[i+1]:
-                continue
-            else:
-                flag=1
-                break
-        return flag==0
+class Solution:
+    def hasAlternatingBits(self, n: int) -> bool:
+        b=bin(n)[2:]
+        for i in range(1,len(b)):
+            if abs(int(b[i])-int(b[i-1]))!=1:
+                return False
+        return True
