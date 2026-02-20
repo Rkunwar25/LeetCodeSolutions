@@ -204,6 +204,7 @@ Solutions to LeetCode problems
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -1047,6 +1048,7 @@ Solutions to LeetCode problems
 | [1013-fibonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Database
@@ -1446,6 +1448,7 @@ Solutions to LeetCode problems
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
