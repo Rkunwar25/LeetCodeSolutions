@@ -361,6 +361,7 @@ Solutions to LeetCode problems
 | [0738-monotone-increasing-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
+| [0829-consecutive-numbers-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
@@ -1266,6 +1267,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0970-powerful-integers) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
