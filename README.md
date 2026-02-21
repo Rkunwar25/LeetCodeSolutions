@@ -281,6 +281,7 @@ Solutions to LeetCode problems
 | [2727-number-of-senior-citizens](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -427,6 +428,7 @@ Solutions to LeetCode problems
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2752-sum-multiples](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2752-sum-multiples) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -1214,6 +1216,7 @@ Solutions to LeetCode problems
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2722-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -1283,6 +1286,7 @@ Solutions to LeetCode problems
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3626-smallest-divisible-digit-product-i) |
