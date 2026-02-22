@@ -1,18 +1,10 @@
-class Solution(object):
-    def binaryGap(self, n):
-        n = list(bin(n)[2:])
-        mx = 0
-        i = 0
-
-        while i < len(n):
-             if n[i] == '1':
-                 l = n[i+1:]
-                 if '1' in l:
-                     dist = l.index('1') + 1
-                     mx = max(mx, dist)
-                     i += dist
-                 else:
-                     break
-             else:
-                 i += 1
+class Solution:
+    def binaryGap(self, n: int) -> int:
+        mx=0
+        n=list(bin(n)[2:])
+        f=n.index('1')
+        for i in range(f+1,len(n)):
+            if n[i]=='1':
+                mx=max(mx,i-f)
+                f=i
         return mx
