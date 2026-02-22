@@ -415,6 +415,7 @@ Solutions to LeetCode problems
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -723,6 +724,7 @@ Solutions to LeetCode problems
 | [2128-reverse-prefix-of-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -1429,6 +1431,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1086-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
