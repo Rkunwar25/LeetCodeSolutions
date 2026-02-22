@@ -150,6 +150,7 @@ Solutions to LeetCode problems
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -707,6 +708,7 @@ Solutions to LeetCode problems
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0953-reverse-only-letters) |
@@ -874,6 +876,7 @@ Solutions to LeetCode problems
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -1305,6 +1308,7 @@ Solutions to LeetCode problems
 | [0624-maximum-distance-in-arrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0738-monotone-increasing-digits) |
+| [0881-boats-to-save-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
