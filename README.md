@@ -538,6 +538,7 @@ Solutions to LeetCode problems
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -617,6 +618,7 @@ Solutions to LeetCode problems
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -956,6 +958,7 @@ Solutions to LeetCode problems
 | [1054-complement-of-base-10-integer](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
