@@ -405,6 +405,7 @@ Solutions to LeetCode problems
 | [1585-the-kth-factor-of-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1925-count-square-sum-triples](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1925-count-square-sum-triples) |
@@ -620,6 +621,7 @@ Solutions to LeetCode problems
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -963,6 +965,7 @@ Solutions to LeetCode problems
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1720-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
