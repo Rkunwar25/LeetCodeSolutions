@@ -1127,6 +1127,7 @@ Solutions to LeetCode problems
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3570-find-books-with-no-available-copies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Depth-First Search
 |  |
 | ------- |
