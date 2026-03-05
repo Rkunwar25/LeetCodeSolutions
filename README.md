@@ -370,6 +370,7 @@ Solutions to LeetCode problems
 | [0826-soup-servings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0829-consecutive-numbers-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1274,6 +1275,7 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
