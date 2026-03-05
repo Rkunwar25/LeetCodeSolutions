@@ -346,6 +346,7 @@ Solutions to LeetCode problems
 | [0292-nim-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
@@ -1062,6 +1063,7 @@ Solutions to LeetCode problems
 | [0322-coin-change](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0397-integer-replacement) |
@@ -1291,6 +1293,7 @@ Solutions to LeetCode problems
 | [0113-path-sum-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
