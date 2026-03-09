@@ -986,6 +986,7 @@ Solutions to LeetCode problems
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -1212,6 +1213,7 @@ Solutions to LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0394-decode-string) |
@@ -1649,6 +1651,7 @@ Solutions to LeetCode problems
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
