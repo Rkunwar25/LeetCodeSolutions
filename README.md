@@ -187,6 +187,7 @@ Solutions to LeetCode problems
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1170,6 +1171,7 @@ Solutions to LeetCode problems
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1306-jump-game-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1579,6 +1581,7 @@ Solutions to LeetCode problems
 | [0965-univalued-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
