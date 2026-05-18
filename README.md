@@ -189,6 +189,7 @@ Solutions to LeetCode problems
 | [1293-three-consecutive-odds](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -676,6 +677,7 @@ Solutions to LeetCode problems
 | [0792-binary-search](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -909,6 +911,7 @@ Solutions to LeetCode problems
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1268,6 +1271,7 @@ Solutions to LeetCode problems
 | [0898-transpose-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1381,6 +1385,7 @@ Solutions to LeetCode problems
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
