@@ -608,6 +608,7 @@ Solutions to LeetCode problems
 | [3110-score-of-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
+| [3210-find-the-encrypted-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3210-find-the-encrypted-string) |
 | [3407-substring-matching-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3407-substring-matching-pattern) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
