@@ -602,6 +602,7 @@ Solutions to LeetCode problems
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2937-make-three-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2937-make-three-strings-equal) |
+| [3019-number-of-changing-keys](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3110-score-of-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
