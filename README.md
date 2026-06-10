@@ -604,6 +604,7 @@ Solutions to LeetCode problems
 | [2937-make-three-strings-equal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2937-make-three-strings-equal) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3110-score-of-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3407-substring-matching-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3407-substring-matching-pattern) |
