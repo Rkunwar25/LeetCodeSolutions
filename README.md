@@ -618,6 +618,7 @@ Solutions to LeetCode problems
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3798-largest-even-number) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -657,6 +658,7 @@ Solutions to LeetCode problems
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -756,6 +758,7 @@ Solutions to LeetCode problems
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2634-minimum-common-value](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
