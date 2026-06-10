@@ -611,6 +611,7 @@ Solutions to LeetCode problems
 | [3194-find-words-containing-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3210-find-the-encrypted-string) |
 | [3407-substring-matching-pattern](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3407-substring-matching-pattern) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3527-find-the-most-common-response) |
 | [3567-convert-date-to-binary](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -650,6 +651,7 @@ Solutions to LeetCode problems
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3625-stone-removal-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3625-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
