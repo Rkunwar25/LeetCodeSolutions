@@ -620,6 +620,7 @@ Solutions to LeetCode problems
 | [3805-count-caesar-cipher-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-check-adjacent-digit-differences](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
