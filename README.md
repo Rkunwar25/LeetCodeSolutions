@@ -396,6 +396,7 @@ Solutions to LeetCode problems
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1372-check-if-it-is-a-good-array) |
