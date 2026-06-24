@@ -119,6 +119,7 @@ Solutions to LeetCode problems
 | [0503-next-greater-element-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0561-array-partition) |
@@ -685,6 +686,7 @@ Solutions to LeetCode problems
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
@@ -728,6 +730,7 @@ Solutions to LeetCode problems
 | [0392-is-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -788,6 +791,7 @@ Solutions to LeetCode problems
 | [0496-next-greater-element-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -906,6 +910,7 @@ Solutions to LeetCode problems
 | [0451-sort-characters-by-frequency](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
