@@ -207,6 +207,7 @@ Solutions to LeetCode problems
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
