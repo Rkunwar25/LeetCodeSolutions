@@ -181,6 +181,7 @@ Solutions to LeetCode problems
 | [1200-minimum-absolute-difference](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-relative-sort-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1241-decompress-run-length-encoded-list) |
@@ -398,6 +399,7 @@ Solutions to LeetCode problems
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1185-day-of-the-week) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1236-n-th-tribonacci-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1284-four-divisors) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -1375,6 +1377,7 @@ Solutions to LeetCode problems
 | [0881-boats-to-save-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1018-largest-perimeter-triangle](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
