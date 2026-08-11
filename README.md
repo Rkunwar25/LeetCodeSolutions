@@ -301,6 +301,7 @@ Solutions to LeetCode problems
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -875,6 +876,7 @@ Solutions to LeetCode problems
 | [2748-number-of-beautiful-pairs](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -967,6 +969,7 @@ Solutions to LeetCode problems
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
