@@ -1702,4 +1702,8 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
