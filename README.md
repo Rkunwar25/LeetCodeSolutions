@@ -534,6 +534,7 @@ Solutions to LeetCode problems
 | [0824-goat-latin](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0824-goat-latin) |
 | [0837-most-common-word](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
@@ -1262,6 +1263,7 @@ Solutions to LeetCode problems
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1706,4 +1708,5 @@ Solutions to LeetCode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
