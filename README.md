@@ -544,6 +544,7 @@ Solutions to LeetCode problems
 | [0984-string-without-aaa-or-bbb](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1006-vowel-spellchecker](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1021-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1044-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
@@ -1266,6 +1267,7 @@ Solutions to LeetCode problems
 | [0856-score-of-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
@@ -1709,4 +1711,5 @@ Solutions to LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
