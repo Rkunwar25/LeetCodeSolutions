@@ -233,6 +233,7 @@ Solutions to LeetCode problems
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-get-maximum-in-generated-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1769-get-maximum-in-generated-array) |
+| [1773-count-items-matching-a-rule](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1833-find-the-highest-altitude) |
@@ -572,6 +573,7 @@ Solutions to LeetCode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1694-reformat-phone-number) |
 | [1764-maximum-repeating-substring](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1764-maximum-repeating-substring) |
+| [1773-count-items-matching-a-rule](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
