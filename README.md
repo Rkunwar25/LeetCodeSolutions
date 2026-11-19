@@ -286,6 +286,7 @@ Solutions to LeetCode problems
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -973,6 +974,7 @@ Solutions to LeetCode problems
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1400,6 +1402,7 @@ Solutions to LeetCode problems
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rkunwar25/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
